@@ -17,10 +17,12 @@ public class RouterValidator {
             "/cars/getCarByType",
             "/cars/getCarByBrand",
             "/cars/delCar",
+            "/cars/updateCar",
             "/order/getAllOrder",
             "/order/addOrder",
             "/order/getAllLocations",
-            "/order/getAllCars"
+            "/order/getAllCars",
+            "/order/updateQuantity"
 
     );
 
