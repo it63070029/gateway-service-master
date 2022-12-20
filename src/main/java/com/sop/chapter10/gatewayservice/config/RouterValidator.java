@@ -22,7 +22,10 @@ public class RouterValidator {
             "/order/addOrder",
             "/order/getAllLocations",
             "/order/getAllCars",
-            "/order/updateQuantity"
+            "/order/updateQuantity",
+            "/order/updateStatus",
+            "/auth/login",
+            "/auth/test"
 
     );
 
